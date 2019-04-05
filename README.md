@@ -1,2 +1,2 @@
 # Go-Trainings
-Trainings via Go Lang
+Simple Go Lang Trainings
